@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "author_img": "https://example.com/author1.jpg",
+      "posted": "New York Times",
+      "date": "2024-03-13",
+      "reading_time": 30,
+      "hashtags": ["fiction", "classic", "gardening"]
+    },
+    {
+      "id": "2",
+      "cover": "https://example.com/cover2.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "https://example.com/author2.jpg",
+      "posted": "The Guardian",
+      "date": "2024-03-12",
+      "reading_time": 45,
+      "hashtags": ["fiction", "1920s", "romance"]
+    },
+    {
+      "id": "3",
+      "cover": "https://example.com/cover3.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://example.com/author3.jpg",
+      "posted": "BBC Books",
+      "date": "2024-03-11",
+      "reading_time": 40,
+      "hashtags": ["fiction", "racism", "southern"]
+    },
+    {
+      "id": "4",
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://example.com/author4.jpg",
+      "posted": "The New Yorker",
+      "date": "2024-03-10",
+      "reading_time": 35,
+      "hashtags": ["fiction", "romance", "classic"]
+    },
+    {
+      "id": "5",
+      "cover": "https://example.com/cover5.jpg",
+      "title": "1984",
+      "author": "George Orwell",
+      "author_img": "https://example.com/author5.jpg",
+      "posted": "Washington Post",
+      "date": "2024-03-09",
+      "reading_time": 50,
+      "hashtags": ["fiction", "dystopian", "surveillance"]
+    }
+  ]
+  
